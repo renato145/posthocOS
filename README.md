@@ -6,3 +6,5 @@ Code for paper: "Post-hoc Overall Survival Time Prediction from Brain MRI" [[arx
 
 ## Trained models
 Inside `notebooks/example/trained_model.pth`
+
+(Model was trained using pytorch==1.7.0)
