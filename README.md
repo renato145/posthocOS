@@ -9,3 +9,6 @@ Inside `notebooks/example/trained_model.pth`
 
 (Model was trained using pytorch==1.7.0 and fastai==2.2.7)
 
+# TODO
+- docker container
+
