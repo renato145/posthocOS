@@ -1,4 +1,5 @@
 *.pth
+!notebooks/example/models/trained_model.pth
 .vscode/
 models/
 
